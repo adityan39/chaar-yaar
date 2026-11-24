@@ -1,0 +1,50 @@
+body {
+  min-height: 100vh; 
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  min-height: 100vh;
+  background-image: url("img.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 1500px;
+}
+.card-body{
+  background: rgba(241, 234, 234, 0.5);
+  border-radius: 20px;
+  padding: 8px ;
+  height: auto;
+  margin: 0;
+}
+.fg-3{
+  text-align: center;
+  color: black;
+  font-family: Arial;
+}
+.Pname{
+  text-align: center;
+  color: black;
+   font-family: Arial;
+}
+.card-text{
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card{
+ 
+   
+      display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+    
+   
+    background-color: transparent;
+    gap: 10px 20px;
+}
+

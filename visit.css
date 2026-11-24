@@ -1,0 +1,41 @@
+.top{
+    background-color: rgb(59, 5, 5);
+}
+*{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    height: 80px;
+}
+
+.a{
+   text-align: center;
+   
+   color: white;
+}
+
+.mid{
+    background-color: rgb(248, 237, 239);
+    height: 550px;
+    background-image: url(base.jpg);
+    background-size:cover;
+      background-position: center;
+  background-repeat: no-repeat;
+  
+
+}
+.b{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(248, 123, 20);
+    font-size: xx-large;
+}
+.v{
+    text-align: center;
+    font-family:'Segoe UI', sans-serif;
+}
+.bottom{
+    background-color: rgb(253, 194, 204);
+    text-align: center;
+   
+}
